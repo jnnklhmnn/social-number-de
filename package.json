@@ -1,0 +1,17 @@
+{
+  "name": "canadian-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "eslint social-number-de.js && parcel build social-number-de.js --no-source-maps  --no-minify",
+    "lint": "eslint social-number-de.js"
+  },
+  "author": "Jannik Müller",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "jest": "^24.9.0"
+  }
+}

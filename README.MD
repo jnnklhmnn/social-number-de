@@ -11,7 +11,9 @@
 Use the `.isValid()` to determine Social Number validity.
 
 ```javascript
-var sin = new SocialNumberDe();
+import { SocialNumberDe } from 'social-number-de';
+
+const sin = new SocialNumberDe();
 sin.isValid("55347124W504");
 // Returns: true
 

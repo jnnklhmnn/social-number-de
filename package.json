@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "eslint social-number-de.js && parcel build social-number-de.js --no-source-maps  --no-minify",
     "lint": "eslint social-number-de.js"
   },
   "author": "Jannik Müller",

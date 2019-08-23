@@ -1,4 +1,10 @@
+## What is this?
+
 `social-number-de` is a german Social Number ([https://de.wikipedia.org/wiki/Sozialversicherungsnummer](https://de.wikipedia.org/wiki/Sozialversicherungsnummer)) parser and generator for the Browser and Node.js.
+
+## Installation
+
+`npm install social-number-de`
 
 ## Parsing
 

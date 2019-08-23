@@ -9,7 +9,6 @@ var sin = new SocialNumberDe();
 sin.isValid("55347124W504");
 // Returns: true
 
-sin = new SocialNumberDe("123456789");
 sin.isValid("55347124W502");
 // Returns: false
 ```

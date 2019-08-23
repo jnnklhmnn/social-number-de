@@ -1,7 +1,7 @@
 {
-  "name": "canadian-test",
+  "name": "social-number-de",
   "version": "1.0.0",
-  "description": "",
+  "description": "social-number-de is a german Social Number (https://de.wikipedia.org/wiki/Sozialversicherungsnummer) parser and generator for the Browser and Node.js.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,6 +10,10 @@
   },
   "author": "Jannik Müller",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnnkm/social-number-de.git"
+  },
   "devDependencies": {
     "eslint": "^6.2.1",
     "jest": "^24.9.0"

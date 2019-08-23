@@ -25,5 +25,4 @@ sin.getRandomID()
 ```
 
 
-inspired by (wealthsimple/social-insurance-number/](https://github.com/wealthsimple/social-insurance-number)) 
-
+inspired by [wealthsimple/social-insurance-number](https://github.com/wealthsimple/social-insurance-number)

@@ -24,7 +24,7 @@ sin.isValid("55347124W502");
 
 ## Generating
 
-Use the `.generate([options ])` class method to generate a valid random Social Number.
+Use the `.getRandomID()` class method to generate a valid random Social Number.
 
 ```javascript
 sin.getRandomID()

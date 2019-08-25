@@ -1,6 +1,6 @@
 {
   "name": "social-number-de",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "social-number-de is a german Social Number (https://de.wikipedia.org/wiki/Sozialversicherungsnummer) parser and generator for the Browser and Node.js.",
   "main": "social-number-de.js",
   "scripts": {

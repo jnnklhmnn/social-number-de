@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/jnnkm/social-number-de/tree/master.svg?style=svg)](https://circleci.com/gh/jnnkm/social-number-de/tree/master)
+[![CircleCI](https://circleci.com/gh/jnnkm/social-number-de/tree/master.svg?style=svg)](https://circleci.com/gh/jnnkm/social-number-de/tree/master) [![Greenkeeper badge](https://badges.greenkeeper.io/jnnkm/social-number-de.svg)](https://greenkeeper.io/)
 
 ## What is this?
 

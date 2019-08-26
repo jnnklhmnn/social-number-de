@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/jnnkm/social-number-de/tree/master.svg?style=svg)](https://circleci.com/gh/jnnkm/social-number-de/tree/master)
+
 ## What is this?
 
 `social-number-de` is a german Social Number ([https://de.wikipedia.org/wiki/Sozialversicherungsnummer](https://de.wikipedia.org/wiki/Sozialversicherungsnummer)) parser and generator for the Browser and Node.js.

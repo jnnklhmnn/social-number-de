@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/ccbde15d6457dcf08be2/maintainability)](https://codeclimate.com/github/jnnkm/social-number-de/maintainability)
+
 ## What is this?
 
 `social-number-de` is a german Social Number ([https://de.wikipedia.org/wiki/Sozialversicherungsnummer](https://de.wikipedia.org/wiki/Sozialversicherungsnummer)) parser and generator for the Browser and Node.js.

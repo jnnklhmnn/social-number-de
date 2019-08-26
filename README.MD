@@ -6,6 +6,14 @@
 
 `npm install social-number-de`
 
+## Introduce Class
+
+```javascript
+import { SocialNumberDe } from 'social-number-de';
+
+const sin = new SocialNumberDe();
+```
+
 ## Parsing
 
 Use the `.isValid()` to determine Social Number validity.

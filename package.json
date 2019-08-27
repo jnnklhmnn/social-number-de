@@ -13,7 +13,7 @@
     "Sozialversicherungs Nummer"
   ], 
   "author": "Jannik Müller",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jnnkm/social-number-de.git"

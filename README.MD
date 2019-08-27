@@ -90,4 +90,5 @@ inspired by [wealthsimple/social-insurance-number](https://github.com/wealthsimp
 
 Supported by
 
-![Browserstack](https://p14.zdusercontent.com/attachment/1015988/1NoVEeqUSIpU4tzuRbqhGz0AS =250x)
+
+<img src="https://p14.zdusercontent.com/attachment/1015988/1NoVEeqUSIpU4tzuRbqhGz0AS" width="250">

@@ -11,7 +11,7 @@
     "socialID",
     "Sozialversicherung",
     "Sozialversicherungs Nummer"
-  ], 
+  ],
   "author": "Jannik Müller",
   "license": "MIT",
   "repository": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/jnnkm/social-number-de.git"
   },
   "devDependencies": {
-    "eslint": "^6.2.1",
+    "eslint": "^6.8.0",
     "jest": "^24.9.0"
   }
 }

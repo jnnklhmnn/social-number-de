@@ -1,7 +1,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/ccbde15d6457dcf08be2/maintainability)](https://codeclimate.com/github/jnnkm/social-number-de/maintainability)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jnnkm/social-number-de.svg)](https://greenkeeper.io/)
-
   
 
 ## What is this?

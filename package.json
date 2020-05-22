@@ -12,14 +12,19 @@
     "Sozialversicherung",
     "Sozialversicherungs Nummer"
   ],
-  "author": "Jannik Müller",
+  "author": "Jannik Lehmann",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jnnkm/social-number-de.git"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "jest": "^24.9.0"
+    "eslint": "^7.0.0",
+    "jest": "^25.5.4"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
   }
 }

@@ -7,6 +7,7 @@
 
   SocialNumberDe.prototype.isValid = function (sn) {
     if (typeof sn !== 'string') return false;
+    if (!sn || sn.length !== 12) return false;
     const snArr = sn.split('');
     const char = getPositionInAlphabet(sn[8]);
     const arrEnd = [...snArr.slice(9, 11)];
